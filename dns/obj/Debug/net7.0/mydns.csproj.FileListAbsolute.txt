@@ -1,0 +1,17 @@
+D:\prj cod\dns\dns\bin\Debug\net7.0\mydns.exe
+D:\prj cod\dns\dns\bin\Debug\net7.0\mydns.deps.json
+D:\prj cod\dns\dns\bin\Debug\net7.0\mydns.runtimeconfig.json
+D:\prj cod\dns\dns\bin\Debug\net7.0\mydns.dll
+D:\prj cod\dns\dns\bin\Debug\net7.0\mydns.pdb
+D:\prj cod\dns\dns\bin\Debug\net7.0\DNS.dll
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.csproj.AssemblyReference.cache
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.GeneratedMSBuildEditorConfig.editorconfig
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.AssemblyInfoInputs.cache
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.AssemblyInfo.cs
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.csproj.CoreCompileInputs.cache
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.csproj.CopyComplete
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.dll
+D:\prj cod\dns\dns\obj\Debug\net7.0\refint\mydns.dll
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.pdb
+D:\prj cod\dns\dns\obj\Debug\net7.0\mydns.genruntimeconfig.cache
+D:\prj cod\dns\dns\obj\Debug\net7.0\ref\mydns.dll

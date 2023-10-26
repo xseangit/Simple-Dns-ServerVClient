@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCk49fOHIvkkPQvBVKXC2bpME0pQATF3IKEaiMKXjSZ6kiY9v/UYz122nFvt3IK0GDQkmHHonbq7U/j9rke82w==",
+  "success": true,
+  "projectFilePath": "D:\\prj cod\\dns\\dns\\mydns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XSean\\.nuget\\packages\\dns\\7.0.0\\dns.7.0.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\XSean\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
